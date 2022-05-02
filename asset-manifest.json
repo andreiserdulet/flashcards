@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/flashcards/static/css/main.441adf7b.css",
+    "main.js": "/flashcards/static/js/main.cf782612.js",
+    "static/js/787.28035159.chunk.js": "/flashcards/static/js/787.28035159.chunk.js",
+    "static/media/fingerscrossed.gif": "/flashcards/static/media/fingerscrossed.84868cc414deb6f01559.gif",
+    "static/media/giggle.gif": "/flashcards/static/media/giggle.cfd49f347acc09d99ab8.gif",
+    "static/media/penguin.gif": "/flashcards/static/media/penguin.b31e7a6107c89cd7960d.gif",
+    "static/media/like.gif": "/flashcards/static/media/like.7a18a3ca2ae6284b7559.gif",
+    "static/media/tears-of-joy.png": "/flashcards/static/media/tears-of-joy.8fd832bb0295faee60f0.png",
+    "static/media/party.png": "/flashcards/static/media/party.1be8bc77fcbb9ae4e91c.png",
+    "static/media/fistbump.gif": "/flashcards/static/media/fistbump.28bc902a11ea0634588a.gif",
+    "static/media/star-eyes.png": "/flashcards/static/media/star-eyes.0f2e32542d69807840b6.png",
+    "static/media/grinnig-face-sweat.png": "/flashcards/static/media/grinnig-face-sweat.aadf429ecb2543195c6d.png",
+    "static/media/coffee.gif": "/flashcards/static/media/coffee.cb8f65ef6a182615b95f.gif",
+    "static/media/grinning.png": "/flashcards/static/media/grinning.d31994bc128e9d3d29fb.png",
+    "static/media/sun.gif": "/flashcards/static/media/sun.5b8a314601094d3334e5.gif",
+    "index.html": "/flashcards/index.html",
+    "main.441adf7b.css.map": "/flashcards/static/css/main.441adf7b.css.map",
+    "main.cf782612.js.map": "/flashcards/static/js/main.cf782612.js.map",
+    "787.28035159.chunk.js.map": "/flashcards/static/js/787.28035159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441adf7b.css",
+    "static/js/main.cf782612.js"
+  ]
+}
