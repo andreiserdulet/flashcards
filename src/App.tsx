@@ -22,21 +22,23 @@ const App = () => {
       setScore(score + 1);
     }
     if (answer !== question[index].correctAnswer) {
-      const newIndex2 = index + 2;
+      const newIndex2 = index + 1 ;
       setIndex2(newIndex2);
       setWrongQ((prevState: IDummy_data[]) => {
         return [...prevState, question[index]];
       });
-      console.log("Wrong questions", wrongQ);
-      console.log("Index for wrong Questions: ", index2);
       if (newIndex >= question.length) {
-        console.log(wrongQ);
         setGameEnded(true);
       }
     }
   };
+  console.log('Question', question);
+  console.log('Index1 ' , index);
+  console.log('Game ended',gameEnded);
+  console.log('WrongQ', wrongQ)
+  console.log('Index2 ', index2);
 
-  console.log(gameEnded);
+
 
   return (
     <Styles.Styles>
