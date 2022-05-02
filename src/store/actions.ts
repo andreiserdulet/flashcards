@@ -1,0 +1,6 @@
+export enum Actions {
+    UPDATE_QUESTION,
+    UPDATE_SCORE,
+    UPDATE_INDEX,
+    UPDATE_GAME_STATUS,
+}
